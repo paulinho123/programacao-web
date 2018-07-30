@@ -1,0 +1,32 @@
+body{ 
+	 background-image: url("fundo1.jpg");
+	 background-attachment: fixed;
+ }
+ 
+ h1{
+	 text-align: center;
+	 text-decoration: underline;
+	 color: green;
+ }
+ 
+ h2{
+	 text-decoration: underline;
+	 color: blue;
+ }
+ 
+ h3{
+	 text-decoration: underline;
+	 color: navy;
+ }
+ 
+ p{
+	 color: black;
+ }
+ 
+ ul{
+	 color: lime;
+ }
+ 
+ a{
+	 color: red;
+ }
